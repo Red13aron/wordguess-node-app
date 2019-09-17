@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Red13aron/wordguess-node-app#readme",
   "dependencies": {
+    "color": "^3.1.2",
+    "colors": "^1.3.3",
+    "figlet": "^1.2.4",
     "inquirer": "^7.0.0"
   }
 }
